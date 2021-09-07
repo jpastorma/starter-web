@@ -5,7 +5,8 @@ for showing how tu use Git and Github.
 
 ## Introduction
 
-
+This is example is to show diferent parts 
+of the Git repository
 
 ## Purpose
 
