@@ -1,0 +1,80 @@
+[33mcommit f20cb252ce4e7bab74f8ab1dab395c5eb83b8a7c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 17:03:39 2021 +0200
+
+    deleting level1 and all children
+
+[33mcommit 6e9070a1e0801cac66df698293df063a40aefbe9[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 16:53:06 2021 +0200
+
+    DELETING NEWFILE
+
+[33mcommit 4bbe21b2efd8452e96679d082927f6c6acefeec6[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 16:30:53 2021 +0200
+
+    Renaming level 3 file
+
+[33mcommit 9e1f89dfd9add8e7a89f25856cb7ae72e64e7545[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 16:29:02 2021 +0200
+
+    renaming level4 file
+
+[33mcommit 2eced1c5b138df51125aebd48d0335c653c3e327[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 15:56:52 2021 +0200
+
+    Adding several files recursively
+
+[33mcommit 66620f958ce96d179d9e7a17c0ff77d10e357e2a[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 15:28:44 2021 +0200
+
+    More info for hipsters
+
+[33mcommit cf760592171fe824d79ce9e8a7c616471b749ea6[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 15:22:45 2021 +0200
+
+    Adding new file
+
+[33mcommit d6f0e1e2c6598291aa315fa2854cce628c29ec3f[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 15:17:09 2021 +0200
+
+    Adding more ipsum text
+
+[33mcommit fb9cac84469e5cfa9c3694091baad0ddf821d9ab[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jpastorma <jpastorma@minsait.com>
+Date:   Mon Sep 6 15:07:35 2021 +0200
+
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
