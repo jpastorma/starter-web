@@ -3,6 +3,8 @@
 This is a simple website project
 for showing how tu use Git and Github.
 
+Adding a line for rebasing example.
+
 ## Introduction
 
 This is example is to show diferent parts 
