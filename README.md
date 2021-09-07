@@ -3,8 +3,7 @@
 This is a simple website project
 for showing how tu use Git and Github.
 
-Adding a line for rebasing example, then 
-more changes from myfeature branch too.
+updating for emergency fix after something
 
 ## Introduction
 
