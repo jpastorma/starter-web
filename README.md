@@ -22,5 +22,7 @@ file
 
 ## How To Contribute
 
+Please fork this repositoryand then issue Pull Request
+for review
 
 2021 Git.Training
